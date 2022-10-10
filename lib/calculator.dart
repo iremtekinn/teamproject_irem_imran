@@ -265,7 +265,7 @@ class _CalculatorState extends State<Calculator> {
                   width: 400,
                   height: 50,
                   decoration: BoxDecoration(
-                    color: Color(0xff468FF8),
+                    color: Colors.red,
                     borderRadius: BorderRadius.circular(25),
                   ),
                   child: Text(
