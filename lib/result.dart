@@ -57,7 +57,7 @@ class _ResultState extends State<Result> {
                     width: 400,
                     height: 50,
                     decoration: BoxDecoration(
-                      color: Color(0xff468FF8),
+                      color: Color.fromARGB(255, 72, 141, 236),
                       borderRadius: BorderRadius.circular(25),
                     ),
                     child: Row(
